@@ -19,3 +19,7 @@ MemoMatch is a memory card game built with React Native and Expo. Test your memo
 #
 
 <img src="assets/images/Phone.png" alt="Phone"  width="300" height="600"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/images/memo1.png" width="300" height="600"> <br>
+
+<img src="assets/images/memo2.png" width="300" height="600">
+<br>
