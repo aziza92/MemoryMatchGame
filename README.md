@@ -1,16 +1,13 @@
 # MemoMatch 🧠
 
-MemoMatch is a memory card game built with React Native and Expo. Test your memory by matching pairs of cards before the timer runs out! The game features multiple levels, total score tracking, and automatic state saving so you can resume anytime.
-
 ![Static Badge](https://img.shields.io/badge/v8.1-b?logo=npm&label=npm) ![Static Badge](https://img.shields.io/badge/v16.13-b?label=nodeJs)
 ![Static Badge](https://img.shields.io/badge/VsCode-c?color=blue) ![Static Badge](https://img.shields.io/badge/React%20Native-c?color=blue) ![Static Badge](https://img.shields.io/badge/Java-c?color=red) ![Static Badge](https://img.shields.io/badge/Firebase-c?logo=Firebase&color=gray)
 
 
 # 📝 Description
 
+MemoMatch is a memory card game built with React Native and Expo. Test your memory by matching pairs of cards before the timer runs out! The game features multiple levels, total score tracking, and automatic state saving so you can resume anytime.
 
-
-📝 Description
 
 
 
