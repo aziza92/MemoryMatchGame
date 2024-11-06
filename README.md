@@ -44,6 +44,14 @@ The main game component, GameBoard, is responsible for:
 - Timer functionality with a countdown display.
 - Sound effects using expo-av for an immersive experience.
 
+##  🛠 Technologies Used
+
+- **Expo**: Framework to build and run the application.
+- **React Native**: For creating the mobile interface.
+- **React Native Paper**: Modern UI components.
+- **AsyncStorage**: To save user data.
+- **expo-av**: For managing sound effects.
+
 
 ## 👏 How to Contribute
 
