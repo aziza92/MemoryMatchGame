@@ -43,3 +43,14 @@ The main game component, GameBoard, is responsible for:
 - Managing cards with flipping, matching, and game-over checks.
 - Timer functionality with a countdown display.
 - Sound effects using expo-av for an immersive experience.
+
+
+## 👏 How to Contribute
+
+Feel free to fork this repository, submit issues, and make pull requests. Any contributions to enhance the functionality and user experience of the Cinephile application are welcome.
+
+📄 License
+
+Copyright © 2024 Aziza Elgoul
+
+This project is licensed under the [MIT](https://opensource.org/license/mit) License. See the LICENSE file for more details.
