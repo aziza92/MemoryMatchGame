@@ -1,4 +1,6 @@
-# Welcome to your Expo app 👋
+# MemoMatch 🧠
+
+MemoMatch is a memory card game built with React Native and Expo. Test your memory by matching pairs of cards before the timer runs out! The game features multiple levels, total score tracking, and automatic state saving so you can resume anytime.
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
