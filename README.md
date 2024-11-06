@@ -15,3 +15,7 @@ MemoMatch is a memory card game built with React Native and Expo. Test your memo
 - **Sound Effects** : Interactive sounds for card flipping, successful matches, and game over.
 - **Game State Saving** : Levels and scores are saved automatically, so you can pick up where you left off.
 - **Stylish UI with React Native Paper** : A modern and interactive design using the React Native Paper library.
+
+#
+
+![Phone](https://github.com/user-attachments/assets/a487fb01-bddc-4018-a03e-484167ba604f)
