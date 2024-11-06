@@ -28,6 +28,7 @@ MemoMatch is a memory card game built with React Native and Expo. Test your memo
 
 ## Code Overview
 **App.js**
+
 This file contains the main logic for:
 
 - Displaying the current level and total score.
@@ -35,6 +36,7 @@ This file contains the main logic for:
 - Methods loadGameState and saveGameState for retrieving and saving the game's state.
 
 **GameBoard.js**
+
 The main game component, GameBoard, is responsible for:
 
 - Game logic for each level.
